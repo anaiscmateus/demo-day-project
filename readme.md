@@ -5,9 +5,8 @@
 ### Goal
 Create a full-stack application with login and CRUD functions, utilizing a MongoDB database. TradeVault is an app designed to bridge finance with modern technology, serving as a trading journal where users can log trades, investments, get stock news, and receive data analysis on their submitted logs. The app also features an AI component that provides opinions on the trades made.
 
-- **Link to Project:** [TradeVault Demo](http://your-demo-link.com/) (replace with your actual demo link)
-- **Screenshot:**
-  ![TradeVault Screenshot](project.png)
+![project](https://github.com/anaiscmateus/demo-day-project/assets/75923327/cdee2856-5e45-49c3-b88c-6e1bcb5ae444)
+
 
 ## How It's Made
 
@@ -84,6 +83,6 @@ To get this project up and running, follow these simple steps:
    - Run `node server.js` to start the server.
 
 5. **Open in Browser:**
-   - Visit `http://localhost:5000` in your web browser.
+   - Visit `http://localhost:8080` in your web browser.
 
 Stay tuned for more updates as TradeVault continues to evolve!
